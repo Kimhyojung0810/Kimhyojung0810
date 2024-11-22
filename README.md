@@ -1,7 +1,6 @@
 ## Hyojung 👋
 
-- 🌱 I’m currently learning ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyojung0810)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on ...
 
 ![Kimhyojung0810's github stats](https://github-readme-stats.vercel.app/api?username=Kimhyojung0810&show_icons=true)
 <!--
